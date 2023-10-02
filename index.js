@@ -5,4 +5,4 @@ class Speaker {
 }
 
 const s = new Speaker();
-s.speak();
+s.speak(); // Hello, world!
