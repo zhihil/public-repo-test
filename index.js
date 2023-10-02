@@ -1,8 +1,8 @@
-class Speaker {
+class Speaker1 {
   speak() {
-    console.log("Hello, World!");
+    console.log("Hello, Albert!");
   }
 }
 
-const s = new Speaker();
+const s = new Speaker1();
 s.speak(); // Hello, world!
