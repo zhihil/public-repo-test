@@ -1,6 +1,7 @@
 class Speaker1 {
   speak() {
     console.log("Hello, Camus!");
+    console.log("Hello, Epimethenus!");
   }
 }
 
